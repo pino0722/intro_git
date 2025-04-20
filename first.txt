@@ -13,3 +13,7 @@ git logコマンドでリポジトリにコミットされたログを確認す�
 .git log --oneline
 ファイルの差分を表示する。
 .git log -p index.html
+ステージとの差分
+.git diff
+ステージとコミットの差分
+.git diff HEAD
